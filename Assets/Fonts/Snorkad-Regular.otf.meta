@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d39774e6597e6848ac0879e14e3818f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Snorkad
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c4b7363d3aa0b44fa42df61707605cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
